@@ -6,7 +6,8 @@
 
 html {
   box-sizing: border-box;
-
+  background-color: #fff;
+  border: #ffe500;
 }
 
 *, *::before, *::after {
@@ -14,6 +15,6 @@ html {
 }
 
 h1 {
-  font-family: 'Sigmar One', cursive;
-  color: #CC1465;
+  font-family: "Sigmar One", cursive;
+  color: #cc1465;
 }
