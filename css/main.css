@@ -14,7 +14,7 @@ html {
 }
 
 h1 {
-  font-family: "Sigmar One", cursive;
+  font-family: "Sigmar One";
   color: #b20953;
   text-align: center;
 }
@@ -22,6 +22,8 @@ h1 {
 h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
+  line-height: 1.5;
+
 }
 
 .nav {
@@ -37,7 +39,7 @@ h2 {
 nav a {
   display: inline-block;
   padding: .6em;
-  background-color: #b2a21a;
+  background-color: #b2a212;
   text-decoration: none;
   border-radius: 5px;
   color: #fff;
@@ -81,4 +83,5 @@ nav li {
 footer {
   background-color: #ffe500;
   text-align: center;
+  padding: 10px;
 }
