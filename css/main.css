@@ -7,7 +7,6 @@
 html {
   box-sizing: border-box;
   background-color: #fff;
-  border: 3px solid #ffe500;
 }
 
 *, *::before, *::after {
@@ -16,7 +15,7 @@ html {
 
 h1 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465;
+  color: #b20953;
   text-align: center;
 
 }
@@ -26,20 +25,22 @@ h1 {
   padding: 0;
   list-style-type: none;
   line-height: 1.5;
+  text-align: center;
+  background-color: #ffe500;
+  font-family: "Georgia"
 }
-
 
 nav a {
   display: inline-block;
   padding: .6em;
-  background-color: #713837;
+  background-color: #b2a21a;
   text-decoration: none;
   border-radius: 5px;
   color: #fff;
 }
 
 nav a:hover {
-  background-color: #f33;
+  background-color: #cc1465;
   color: #fff;
 }
 
@@ -54,7 +55,7 @@ body {
 }
 
 header {
-  background-color: #79756f;
+  background-color: #ffe500;
   margin: 0;
   padding: 0;
 }
