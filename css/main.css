@@ -17,7 +17,12 @@ h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   text-align: center;
+}
 
+h2{
+  background-color: #fff;
+  font-family: "Sigmar One", cursive;
+  color: #b20953;
 }
 
 .nav {
@@ -51,7 +56,7 @@ ul {
 
 body {
   margin: 0;
-  background-color: #79756f;
+  background-color: #fff;
 }
 
 header {
@@ -72,4 +77,9 @@ nav ul {
 nav li {
   display: inline-block;
   margin: .3em;
+}
+
+footer {
+  background-color: #ffe500;
+  text-align:center;
 }
