@@ -29,6 +29,7 @@ h1 {
   list-style-type: none;
   font-family: Georgia;
   background-color: #ffe500;
+  border-radius: 4px;
 }
 
 nav a {
