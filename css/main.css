@@ -20,16 +20,13 @@ h1 {
   text-align: center;
   margin: .1em;
   font-size: 3rem;
-  padding: .2em;
+  display: inline;
 }
 
 .nav {
-  margin: auto;
-  padding: 0;
   list-style-type: none;
-  font-family: Georgia;
-  background-color: #ffe500;
-  border-radius: 4px;
+  display: inline;
+  text-align: center;
 }
 
 nav a {
