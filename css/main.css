@@ -65,9 +65,14 @@ nav {
   background-color: #79756f;
 }
 
-nav li {
+li {
   display: inline-block;
-  margin-bottom: .3em;
+  margin: 0;
+  font-size: .75rem;
+  background-color: #b2a212;
+  border-radius: 4px;
+  text-align:center;
+
 }
 
 footer {
