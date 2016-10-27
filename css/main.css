@@ -14,6 +14,12 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  padding: 0 0 .3em;
+  background-color: #ffe500;
+  margin: 0;
+}
+
 h1 {
   font-family: "Sigmar One";
   color: #b20953;
@@ -40,9 +46,8 @@ a {
   list-style-type: none;
 }
 
-nav a:hover {
-  background-color: #b20953;
-  color: #fff;
+a:hover {
+  background-color: #cc1465;
 }
 
 ul {
@@ -56,19 +61,8 @@ body {
   line-height: 1.5;
 }
 
-header {
-  background-color: #ffe500;
-  margin: 0;
-  padding: 0 0 .3em;
-}
-
 nav {
   background-color: #79756f;
-}
-
-nav ul {
-  padding: 0;
-  margin: 0;
 }
 
 nav li {
@@ -82,6 +76,8 @@ footer {
   padding: 10px;
   font-family: Georgia;
   color: #2f2d13;
+  text-decoration: none;
+  font-size: 1.125rem;
 }
 
 h2 {
