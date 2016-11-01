@@ -71,8 +71,7 @@ li {
   font-size: .75rem;
   background-color: #b2a212;
   border-radius: 4px;
-  text-align:center;
-
+  text-align: center;
 }
 
 footer {
@@ -95,8 +94,8 @@ h2 {
 img {
   width: 100%;
   display: block;
-  padding: 10px;
-  margin: .3em;
+  max-width: 25em;
+  vertical-align: center;
 }
 
 .nav .current {
