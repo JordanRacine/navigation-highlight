@@ -58,8 +58,6 @@ ul {
 
 body {
   margin: 0;
-  background-color: #fff;
-  line-height: 1.5;
 }
 
 nav {
@@ -109,8 +107,4 @@ p {
 main {
   color: #fff;
   padding: 0 10px;
-}
-
-body {
-  margin: 0;
 }
