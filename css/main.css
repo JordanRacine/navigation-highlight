@@ -8,6 +8,8 @@ html {
   box-sizing: border-box;
   background-color: #fff;
   line-height: 1.5;
+  font-family: Georgia;
+  text-align: left;
 }
 
 *, *::before, *::after {
@@ -15,7 +17,7 @@ html {
 }
 
 header {
-  padding: 0 0 .3em;
+  padding: 0 0 .4em;
   background-color: #ffe500;
   margin: 0;
 }
@@ -95,7 +97,6 @@ img {
   width: 100%;
   display: block;
   max-width: 25em;
-  vertical-align: center;
 }
 
 .nav .current {
