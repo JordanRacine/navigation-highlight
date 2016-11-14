@@ -65,6 +65,7 @@ body {
 nav {
   background-color: #79756f;
   text-align: center;
+  font-size: 1.125rem;
 }
 
 li {
@@ -84,6 +85,10 @@ footer {
   font-size: 1.125rem;
 }
 
+footer small {
+  font-size: .75rem;
+}
+
 h2 {
   color: #b20953;
   font-family: "Sigmar One", cursive;
@@ -95,10 +100,13 @@ img {
   width: 100%;
   display: block;
   max-width: 25em;
+  vertical-align: center;
 }
 
 .nav .current {
   background-color: #cc1465;
+  text-decoration: none;
+  font-size: 1.125rem;
 }
 
 main {
