@@ -20,6 +20,7 @@ header {
   padding: 0 0 .4em;
   background-color: #ffe500;
   margin: 0;
+  display:block;
 }
 
 h1 {
