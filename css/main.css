@@ -26,7 +26,7 @@ h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   text-align: center;
-  margin: 0;
+  margin: 0 0 .2em;
   font-size: 3rem;
 }
 
